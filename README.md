@@ -42,9 +42,13 @@ SkillSwap 的解法是**以教代学**：你不需要花钱，只需要拿出你
 |:---:|:---:|
 | ![概览](docs/screenshots/overview.png) | ![技能广场](docs/screenshots/plaza.png) |
 
-| 交换中心 | 消息中心 | 我的 |
-|:---:|:---:|:---:|
-| ![交换中心](docs/screenshots/swaps.png) | ![消息](docs/screenshots/messages.png) | ![我的](docs/screenshots/me.png) |
+| 交换中心 | 消息中心 |
+|:---:|:---:|
+| ![交换中心](docs/screenshots/swaps.png) | ![消息](docs/screenshots/messages.png) |
+
+| 我的 · 身份与成就 | 我的 · 技能与设置 |
+|:---:|:---:|
+| ![我的1](docs/screenshots/me-1.png) | ![我的2](docs/screenshots/me-2.png) |
 
 ---
 
